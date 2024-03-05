@@ -1,0 +1,27 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "start": "node index.js",
+    "type": "git",
+    "url": "git+https://github.com/maryun0/Backend2.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Marcelo Yuassa Nogai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maryun0/Backend2/issues"
+  },
+  "homepage": "https://github.com/maryun0/Backend2#readme",
+  "dependencies": {
+    "mysql2": "^3.9.1"
+  }
+}
